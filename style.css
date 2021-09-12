@@ -1,0 +1,38 @@
+body {padding-top:100px;
+    text-align: center;
+    color: white;
+    margin:0;
+    background: linear-gradient(0deg, rgba(131,34,195,1) 0%, rgba(253,93,45,1) 100%);
+   font-family:'Great Vibes', cursive;
+}
+img {
+width:430px;
+border-style:solid;
+border-color:white;
+border-width:5px;
+border-radius:50%;
+   
+}
+p1 {
+
+    font-size:65px;
+}
+p {
+font-size:35px; 
+}
+.menu {
+z-index:10;
+    top:10px;
+    right:30px;
+    position:absolute;
+    list-style:none;
+    cursor:pointer;
+}
+.link {
+    float:left;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-right:10px;
+    padding-left:10px;
+    font-size:20px;
+}
